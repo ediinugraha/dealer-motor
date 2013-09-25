@@ -1,27 +1,3 @@
-
-
-    +Edi
-    Telusuri
-    Gambar
-    Maps
-    YouTube
-    Gmail
-    Drive
-    Kalender
-    Terjemahan
-    Lainnya
-
-    Edi Nugraha
-    6
-     Berbagi
-    Edi Nugraha
-    Edi Nugraha
-    	
-
-Drive
-Hubungkan Drive ke desktop Anda
-3,52 GB (23%) dari 15 GB terpakaiKelola
-		
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -179,8 +155,3 @@ $i++;
 </center>
 </body>
 </html>
-
-report_belikredit_view.php
-
-15 dari 16
-Menampilkan report_belikredit_view.php.
